@@ -1,0 +1,79 @@
+.lead-form-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+  padding: 20px;
+  margin: 20px auto;
+  background-color: #E3E3E3;
+  width: 90%;
+}
+
+.lead-header {
+  color: #FFA23C;
+  font-size: 30px;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  border: 1px solid black;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: #FFE8D6;
+  width: 100%;
+}
+
+form label {
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+}
+
+.lead-input {
+  width: 100%;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+
+table {
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+table th, table td {
+  border: 1px solid black;
+  padding: 5px;
+}
+
+table td {
+  border-top: none;
+}
+
+tr:nth-child(even) {
+  background-color: #E3E3E3;
+}
+
+tr:nth-child(odd) {
+  background-color: white;
+}
+
+th {
+  background-color: #393E46;
+  color: white;
+}
+
+button[type="submit"] {
+  background-color: #FFA23C;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #FFC96B;
+}

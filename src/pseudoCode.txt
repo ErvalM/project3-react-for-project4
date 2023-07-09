@@ -1,0 +1,40 @@
+idea 2-3 sentences
+a website like SISU which will help anyone in the sales industry to
+completely track their goals, and automatically send an email / text
+to remind them of what they might have missed to do today.
+also a tracker for expense, profite, and conversion rate.
+
+list:
+yearly goal (static)
+monthly goal (static (20) / optional)
+weekly goal (optional)
+todo list daily
+
+lead tracker / closed / volume / conversion / nurture / total
+past client     33        $6M      3%         130        163
+
+
+cost tracker: / profit tracker
+
+email reminders / text reminders (optional backend)
+
+
+
+log in for team.
+
+
+list of features:
+1. need to create a new lead input (form)
+   -every new lead created (default as warm) / button or drop down to make
+    it a hot lead.
+
+2. be able to create an expense.
+   -amount, etc...
+
+3. every lead that will change status will contribute to yearly goal
+
+4. dashboard
+
+5. create wireframe lead tracker, cost tracker
+
+6. login auto login simple first

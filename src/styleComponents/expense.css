@@ -1,0 +1,89 @@
+.lead-form-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px;
+    background-color: #E3E3E3;
+  }
+
+  input#expenseName {
+    width: 200px;
+  }
+
+  .expense-header {
+    color: #FFA23C;
+    font-size: 30px;
+  }
+
+  .goal {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+  
+  form {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    border: 1px solid black;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: #FFE8D6;
+    width: 95%;
+    margin: 25px;
+  }
+  
+  form label {
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  table th, table td {
+    border: 1px solid black;
+    padding: 5px;
+  }
+  
+  table td {
+    border-top: none;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #E3E3E3;
+  }
+  
+  tr:nth-child(odd) {
+    background-color: white;
+  }
+  
+  th {
+    background-color: #393E46;
+    color: white;
+  }
+  
+  button[type="submit"] {
+    background-color: #FFA23C;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #FFC96B;
+  }
+
+  table {
+    border-collapse: collapse;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+  
